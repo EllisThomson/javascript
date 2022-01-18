@@ -1,4 +1,4 @@
-<script let="" clicks="0"></script>
+<script let'clicks'=0></script>
 <button input="button" onclick="clicks=1500;
     while(h>0){
     h=h-1;
