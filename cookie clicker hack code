@@ -3,4 +3,4 @@
     while(h>0){
     h=h-1;
     ClickCookie();
-    }">cool</button>
+    }">code</button>
